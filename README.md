@@ -1,4 +1,6 @@
-## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,git,c,cpp,cs,py,cmake,vscode,dart,flutter,arduino,raspberrypi,anaconda,latex,opencv,p5js,php,mysql,sqlite,unity,threejs,java,perl,javascript,html,githubactions,github,blender,pytorch&perline=10)](https://skill-icons-builder.vercel.app/)
+
+Skills & Tools
 
 <!--
 **sandrobenigno/sandrobenigno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
