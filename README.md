@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,blender,bash,c,cs,cpp,cmake,css,dart,debian,docker,flutter,github,git,githubactions,html,javascript,java,latex,linux,lua,mysql,opencv,php,perl,p5js,postgresql,processing,py,pytorch,raspberrypi,sqlite,threejs,tensorflow,unity,vscode,androidstudio,windows,wordpress&center=true&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,bash,blender,bsd,c,cs,cpp,cmake,css,dart,debian,docker,flutter,github,git,githubactions,html,javascript,java,latex,linux,lua,mysql,nodejs,opencv,p5js,php,perl,postgresql,processing,py,pytorch,raspberrypi,sqlite,threejs,tensorflow,unity,vscode,windows,wordpress&center=true&perline=14)](#)
 
 Skills & Tools
 
